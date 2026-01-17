@@ -1,0 +1,7 @@
+{
+  "name": "Spaceman IDR Simulator",
+  "description": "A high-fidelity Spaceman crash game simulator featuring real-time bot betting, smooth orbital flight animations, and Indonesian-themed UI/UX with IDR currency.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
